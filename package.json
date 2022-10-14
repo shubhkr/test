@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhkr/test.git"
+  },
+  "author": "sks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhkr/test/issues"
+  },
+  "homepage": "https://github.com/shubhkr/test#readme"
+}
